@@ -193,8 +193,32 @@ void pisca(int tempo, int vezes, int Pino){
 void app_main() {
 
   while (true) {
+  A();
+  B();
+  C();
+  D();
+  E();
+  F();
+  G();
+  H();
+  I();
+  J();
+  K();
+  L();
   M();
-
+  N();
+  O();
+  P();
+  Q();
+  R();
+  S();
+  T();
+  U();
+  V();
+  W();
+  X();
+  Y();
+  Z();
    vTaskDelay(250 / portTICK_PERIOD_MS);
     printf(" \n"); 
   }
